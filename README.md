@@ -1,4 +1,8 @@
-# Soundworks Application Template
+# Ping-pong Rhythm Game
+
+Based on the Soundworks template. Please follow the instructions below to try it, or to modify it!
+
+## Instructions
 
 > This is a project template for developing [*Soundworks*](https://github.com/collective-soundworks/soundworks/) applications.  
 > The template also includes comprehensive comments in the source files.
